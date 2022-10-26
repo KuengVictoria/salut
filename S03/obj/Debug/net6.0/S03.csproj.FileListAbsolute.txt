@@ -1,0 +1,15 @@
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson3\Seminar\S03\bin\Debug\net6.0\S03.exe
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson3\Seminar\S03\bin\Debug\net6.0\S03.deps.json
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson3\Seminar\S03\bin\Debug\net6.0\S03.runtimeconfig.json
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson3\Seminar\S03\bin\Debug\net6.0\S03.dll
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson3\Seminar\S03\bin\Debug\net6.0\S03.pdb
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson3\Seminar\S03\obj\Debug\net6.0\S03.csproj.AssemblyReference.cache
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson3\Seminar\S03\obj\Debug\net6.0\S03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson3\Seminar\S03\obj\Debug\net6.0\S03.AssemblyInfoInputs.cache
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson3\Seminar\S03\obj\Debug\net6.0\S03.AssemblyInfo.cs
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson3\Seminar\S03\obj\Debug\net6.0\S03.csproj.CoreCompileInputs.cache
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson3\Seminar\S03\obj\Debug\net6.0\S03.dll
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson3\Seminar\S03\obj\Debug\net6.0\refint\S03.dll
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson3\Seminar\S03\obj\Debug\net6.0\S03.pdb
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson3\Seminar\S03\obj\Debug\net6.0\S03.genruntimeconfig.cache
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson3\Seminar\S03\obj\Debug\net6.0\ref\S03.dll
